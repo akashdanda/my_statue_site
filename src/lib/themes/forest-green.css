@@ -1,0 +1,23 @@
+/* Forest Green Theme - Deep greens with earth tones */
+@theme {
+  /* Core palette - Natural forest aesthetic */
+  --color-background: #0d1b1e;      /* Deep forest black */
+  --color-card: #1a2e1f;            /* Dark green card */
+  --color-border: #2d4a3e;          /* Medium green border */
+  --color-foreground: #a8d5ba;      /* Soft green text */
+  --color-muted: #6b8e7a;           /* Muted green-gray */
+
+  /* Brand colors - Forest green palette */
+  --color-primary: #4ade80;         /* Bright green */
+  --color-secondary: #22c55e;       /* Medium green */
+  --color-accent: #16a34a;          /* Deep green */
+
+  /* Text colors for different surfaces */
+  --color-on-primary: #0d1b1e;       /* Dark text on bright buttons */
+  --color-on-background: #f0fdf4;    /* Light text on dark background */
+
+  /* Hero gradients - Forest depth */
+  --color-hero-from: #0d1b1e;
+  --color-hero-via: #1a2e1f;
+  --color-hero-to: #0d1b1e;
+}

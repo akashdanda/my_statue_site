@@ -1,0 +1,23 @@
+/* Miami Heat Red & Black Theme - Vibrant red with deep black */
+@theme {
+  /* Core palette - Miami Heat aesthetic */
+  --color-background: #000000;      /* Pure black */
+  --color-card: #1a0000;            /* Very dark red-black card */
+  --color-border: #4a0000;           /* Dark red border */
+  --color-foreground: #98002E;      /* Miami Heat red text */
+  --color-muted: #6b1a2a;            /* Muted Miami red-gray */
+
+  /* Brand colors - Miami Heat red palette */
+  --color-primary: #98002E;         /* Miami Heat signature red */
+  --color-secondary: #C8102E;       /* Bright Miami red */
+  --color-accent: #7a0020;          /* Deep Miami red */
+
+  /* Text colors for different surfaces */
+  --color-on-primary: #ffffff;       /* White text on red buttons */
+  --color-on-background: #ffffff;    /* White text on black background */
+
+  /* Hero gradients - Miami Heat red-black */
+  --color-hero-from: #000000;
+  --color-hero-via: #1a0000;
+  --color-hero-to: #000000;
+}

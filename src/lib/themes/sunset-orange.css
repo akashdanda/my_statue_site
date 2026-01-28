@@ -1,0 +1,23 @@
+/* Sunset Orange Theme - Warm oranges, reds, and yellows */
+@theme {
+  /* Core palette - Warm sunset aesthetic */
+  --color-background: #1a0f0a;      /* Deep dark brown */
+  --color-card: #2d1810;            /* Dark orange-brown card */
+  --color-border: #4a2c1a;          /* Medium brown border */
+  --color-foreground: #fbbf24;      /* Warm yellow text */
+  --color-muted: #d97706;            /* Muted orange */
+
+  /* Brand colors - Sunset palette */
+  --color-primary: #f97316;         /* Bright orange */
+  --color-secondary: #fb923c;        /* Light orange */
+  --color-accent: #ea580c;          /* Deep orange-red */
+
+  /* Text colors for different surfaces */
+  --color-on-primary: #1a0f0a;       /* Dark text on bright buttons */
+  --color-on-background: #fff7ed;    /* Cream text on dark background */
+
+  /* Hero gradients - Sunset glow */
+  --color-hero-from: #1a0f0a;
+  --color-hero-via: #2d1810;
+  --color-hero-to: #4a2c1a;
+}

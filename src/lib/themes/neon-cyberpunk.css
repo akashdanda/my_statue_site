@@ -1,0 +1,23 @@
+/* Neon Cyberpunk Theme - Electric blues, purples, and pinks with dark backgrounds */
+@theme {
+  /* Core palette - Dark cyberpunk aesthetic */
+  --color-background: #0a0a0f;      /* Deep black-blue */
+  --color-card: #1a1a2e;            /* Dark purple-blue card */
+  --color-border: #16213e;           /* Dark blue border */
+  --color-foreground: #e94560;      /* Neon pink text */
+  --color-muted: #8b9dc3;           /* Muted blue-gray */
+
+  /* Brand colors - Electric neon palette */
+  --color-primary: #00d4ff;         /* Bright cyan */
+  --color-secondary: #e94560;      /* Neon pink */
+  --color-accent: #7b2cbf;         /* Electric purple */
+
+  /* Text colors for different surfaces */
+  --color-on-primary: #0a0a0f;      /* Dark text on bright buttons */
+  --color-on-background: #ffffff;    /* White text on dark background */
+
+  /* Hero gradients - Cyberpunk glow effect */
+  --color-hero-from: #0a0a0f;
+  --color-hero-via: #1a1a2e;
+  --color-hero-to: #16213e;
+}

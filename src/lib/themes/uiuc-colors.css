@@ -1,0 +1,23 @@
+/* UIUC Blue & Orange Theme - Your school colors! */
+@theme {
+  /* Core palette - UIUC inspired */
+  --color-background: #13294b;      /* UIUC dark blue */
+  --color-card: #1e3a5f;            /* Medium blue card */
+  --color-border: #2d4a6b;          /* Light blue border */
+  --color-foreground: #ff6b35;      /* UIUC orange text */
+  --color-muted: #94a3b8;           /* Muted blue-gray */
+
+  /* Brand colors - UIUC palette */
+  --color-primary: #ff6b35;         /* UIUC orange */
+  --color-secondary: #4a90e2;       /* Bright blue */
+  --color-accent: #13294b;          /* UIUC dark blue */
+
+  /* Text colors for different surfaces */
+  --color-on-primary: #ffffff;       /* White text on orange buttons */
+  --color-on-background: #ffffff;    /* White text on dark background */
+
+  /* Hero gradients - UIUC blue to orange */
+  --color-hero-from: #13294b;
+  --color-hero-via: #1e3a5f;
+  --color-hero-to: #13294b;
+}
